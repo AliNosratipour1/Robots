@@ -1,6 +1,4 @@
-body{
-  background-color: darkslategray;
-}
+
 
 .todo-item{
   display: flex;
@@ -21,13 +19,13 @@ body{
 }
 
 
-.card{
-  margin:  0 auto;
-  background-color: red;
-  display: none;
-}
+
 
 .robot{
   width: 50%;
   height: 50%;
+}
+
+h1{
+color: orange;
 }
